@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5EF96F88-20D9-4B91-AE4F-F77FEDD0DC76</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PruebaSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EEED7E374578125299E269EC7B4E8E2DFC01B91B</key>
+		<string>https://bitbucket.org/guillermo_costecho_rosales/facebook-hack-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PruebaSwift/PruebaSwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EEED7E374578125299E269EC7B4E8E2DFC01B91B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/guillermo_costecho_rosales/facebook-hack-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EEED7E374578125299E269EC7B4E8E2DFC01B91B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EEED7E374578125299E269EC7B4E8E2DFC01B91B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
